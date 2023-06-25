@@ -2,30 +2,30 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "박석희",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    image: "/stone-avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "backend developer",
+    bio: "Develop for those in need.",
+    email: "kiit0901@gmail.com",
+    linkedin: "stoneHee99",
+    github: "stoneHee99",
+    instagram: "stone__ed",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `stoneHee-log`,
+      href: "https://github.com/stoneHee99/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "stoneHee-log",
+    description: "welcome to stoneHee-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://stonehee99.vercel.app/",
+  since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
