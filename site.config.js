@@ -45,9 +45,9 @@ const CONFIG = {
     },
   },
   googleSearchConsole: {
-    enable: false,
+    enable: true,
     config: {
-      siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
+      siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "eWK8mAZ41g6aN3nnvvZuwzm49SiPyPRVWDzerYWeFxA",
     },
   },
   utterances: {
