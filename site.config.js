@@ -41,7 +41,7 @@ const CONFIG = {
   googleAnalytics: {
     enable: false,
     config: {
-      measurementId: "UA-280448078-1" || "",
+      measurementId: "G-LFFWHJT42E" || "",
     },
   },
   googleSearchConsole: {
