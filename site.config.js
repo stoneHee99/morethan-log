@@ -39,7 +39,7 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
       measurementId: "G-LFFWHJT42E" || "",
     },
