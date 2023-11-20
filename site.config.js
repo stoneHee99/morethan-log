@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `stoneHee-log`,
-      href: "https://github.com/stoneHee99/morethan-log",
+      name: `Teach Me`,
+      href: "https://teach-me.live/",
     },
   ],
   // blog setting (required)
